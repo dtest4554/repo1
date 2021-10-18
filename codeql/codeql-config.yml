@@ -1,6 +1,0 @@
-name: "Custom CodeQL Config"
-
-disable-default-queries: true
-
-queries:
-- uses: ./codeql/custom-queries/javascript
